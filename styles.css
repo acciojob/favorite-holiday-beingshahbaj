@@ -1,1 +1,62 @@
 /*  your css code here. If applicable */
+
+body {
+    background-color: #f7f7f7;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 28px;
+    margin-top: 20px;
+}
+
+
+p {
+    text-align: center;
+    font-size: 18px;
+}
+
+
+hr {
+    margin: 20px auto;
+    border: 1px solid #999;
+    width: 50%;
+}
+
+
+h2 {
+    text-align: center;
+    font-size: 24px;
+    color: #0066cc;
+}
+
+
+ol {
+    list-style: decimal inside;
+    text-align: center;
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+
+ol li {
+    margin: 10px 0;
+}
+
+
+ul {
+    list-style: disc inside;
+    text-align: center;
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+
+ul li {
+    margin: 10px 0;
+}
